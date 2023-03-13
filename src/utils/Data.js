@@ -55,4 +55,61 @@ module.exports = {
       //   },
     },
   // ],
+  REALWORDS: [
+    {
+      type: "Nature",
+      detail: {
+        img: require("../../assets/img/abandon.jpg"),
+        mp3: "",
+        type: "Үйл үг",
+        engword: "Abandon",
+        mglword: "Орхих, орхиж явах",
+        pronounce: "əˈband(ə)n",
+      },
+    },
+    {
+      type: "Nature",
+      detail: {
+        img: require("../../assets/img/adversely.jpg"),
+        mp3: "",
+        type: "Нэр үг",
+        engword: "Adversely",
+        mglword: "Сөргөөр",
+        pronounce: "advəːsli",
+      },
+    },
+    {
+      type: "Nature",
+      detail: {
+        img: require("../../assets/img/aggregate.jpg"),
+        mp3: "",
+        type: "Нэр үг",
+        engword: "Aggregate",
+        mglword: "Нийлбэр, нийлбэр дүн",
+        pronounce: "aɡrɪɡət",
+      },
+    },
+    {
+      type: "Science",
+      detail: {
+        img: require("../../assets/img/aggregate.jpg"),
+        mp3: "",
+        type: "Үйл үг",
+        engword: "Adjust",
+        mglword: "Дасах, зохицох",
+        pronounce: "əˈdʒʌst",
+      },
+    },
+    {
+      type: "Science",
+      detail: {
+        img: require("../../assets/img/aggregate.jpg"),
+        mp3: "",
+        type: "Нэр үг",
+        engword: "Arbitrary",
+        mglword: "Дур зоргоороо",
+        pronounce: "ɑːbɪt(rə)ri",
+      },
+    },
+  ],
 };
