@@ -1310,7 +1310,7 @@ module.exports = {
     {
       type: 'Mind and Body',
       detail: {
-        audio: require('../../assets/audio/self-perpetuating.mp3'),
+        audio: require('../../assets/audio/selfperpetuating.mp3'),
         type: 'Тэмдэг нэр',
         engword: 'Self-perpetuating',
         mglword: 'Өөрийн нөөцийг нэмэгдүүлэх',
@@ -1320,7 +1320,7 @@ module.exports = {
     {
       type: 'Society',
       detail: {
-        audio: 'require(../../assets/audio/assimilate.mp3)',
+        audio: require('../../assets/audio/assimilate.mp3'),
         type: 'Үйл үг',
         engword: 'Assimilate',
         mglword: 'Ижилсэх',
@@ -1330,7 +1330,7 @@ module.exports = {
     {
       type: 'Society',
       detail: {
-        audio: 'require(../../assets/audio/cremation.mp3)',
+        audio: require('../../assets/audio/cremation.mp3'),
         type: 'Нэр үг',
         engword: 'Cremation',
         mglword: 'Хүүр шатаах',
@@ -1340,7 +1340,7 @@ module.exports = {
     {
       type: 'Society',
       detail: {
-        audio: 'require(../../assets/audio/domesticate.mp3)',
+        audio: require('../../assets/audio/domesticate.mp3'),
         type: 'Үйл үг',
         engword: 'Domesticate',
         mglword: 'Гаршуулах',
@@ -1350,7 +1350,7 @@ module.exports = {
     {
       type: 'Society',
       detail: {
-        audio: 'require(../../assets/audio/folklore.mp3)',
+        audio: require('../../assets/audio/folklore.mp3'),
         type: 'Нэр үг',
         engword: 'Folklore',
         mglword: 'Ардын аман зохиол',
@@ -1360,7 +1360,7 @@ module.exports = {
     {
       type: 'Society',
       detail: {
-        audio: 'require(../../assets/audio/fossilize.mp3)',
+        audio: require('../../assets/audio/fossilize.mp3'),
         type: 'Үйл үг',
         engword: 'Fossilize',
         mglword: 'Чулуужих',
@@ -1370,7 +1370,7 @@ module.exports = {
     {
       type: 'Society',
       detail: {
-        audio: 'require(../../assets/audio/relic.mp3)',
+        audio: require('../../assets/audio/relic.mp3'),
         type: 'Нэр үг',
         engword: 'Relic',
         mglword: 'Үлдэгдэл',
@@ -1380,7 +1380,7 @@ module.exports = {
     {
       type: 'Society',
       detail: {
-        audio: 'require(../../assets/audio/rite.mp3)',
+        audio: require('../../assets/audio/rite.mp3'),
         type: 'Нэр үг',
         engword: 'Rite',
         mglword: 'Ёслол',
@@ -1390,7 +1390,7 @@ module.exports = {
     {
       type: 'Society',
       detail: {
-        audio: 'require(../../assets/audio/ritually.mp3)',
+        audio: require('../../assets/audio/ritually.mp3'),
         type: 'Нөхцөл үйл үг',
         engword: 'Ritually',
         mglword: 'Зан үйлийн',
@@ -1400,7 +1400,7 @@ module.exports = {
     {
       type: 'Society',
       detail: {
-        audio: 'require(../../assets/audio/saga.mp3)',
+        audio: require('../../assets/audio/saga.mp3'),
         type: 'Нэр үг',
         engword: 'Saga',
         mglword: 'Тууль',
@@ -1410,7 +1410,7 @@ module.exports = {
     {
       type: 'Society',
       detail: {
-        audio: 'require(../../assets/audio/vestige.mp3)',
+        audio: require('../../assets/audio/vestige.mp3'),
         type: 'Нэр үг',
         engword: 'Vestige',
         mglword: 'Ул мөр',
@@ -1420,7 +1420,7 @@ module.exports = {
     {
       type: 'Society',
       detail: {
-        audio: 'require(../../assets/audio/amend.mp3)',
+        audio: require('../../assets/audio/amend.mp3'),
         type: 'Үйл үг',
         engword: 'Amend',
         mglword: 'Засах, сэлбэх',
@@ -1430,7 +1430,7 @@ module.exports = {
     {
       type: 'Society',
       detail: {
-        audio: 'require(../../assets/audio/biased.mp3)',
+        audio: require('../../assets/audio/biased.mp3'),
         type: 'Тэмдэг нэр',
         engword: 'Biased',
         mglword: '1 талыг барьсан',
@@ -1440,7 +1440,7 @@ module.exports = {
     {
       type: 'Society',
       detail: {
-        audio: 'require(../../assets/audio/burden.mp3)',
+        audio: require('../../assets/audio/burden.mp3'),
         type: 'Нэр үг',
         engword: 'Burden',
         mglword: 'Төвөг',
@@ -1450,7 +1450,7 @@ module.exports = {
     {
       type: 'Society',
       detail: {
-        audio: 'require(../../assets/audio/counter.mp3)',
+        audio: require('../../assets/audio/counter.mp3'),
         type: 'Үйл үг',
         engword: 'Counter',
         mglword: 'Тулгарах',
@@ -1460,7 +1460,7 @@ module.exports = {
     {
       type: 'Society',
       detail: {
-        audio: 'require(../../assets/audio/defacto.mp3)',
+        audio: require('../../assets/audio/defacto.mp3'),
         type: 'Тэмдэг нэр',
         engword: 'De facto',
         mglword: 'Бодит байдал',
@@ -1470,7 +1470,7 @@ module.exports = {
     {
       type: 'Society',
       detail: {
-        audio: 'require(../../assets/audio/discriminate.mp3)',
+        audio: require('../../assets/audio/discriminate.mp3'),
         type: 'Үйл үг',
         engword: 'Discriminate',
         mglword: 'Ялгаварлах',
@@ -1480,7 +1480,7 @@ module.exports = {
     {
       type: 'Society',
       detail: {
-        audio: 'require(../../assets/audio/notion.mp3)',
+        audio: require('../../assets/audio/notion.mp3'),
         type: 'Нэр үг',
         engword: 'Notion',
         mglword: 'Үзэл',
@@ -1490,7 +1490,7 @@ module.exports = {
     {
       type: 'Society',
       detail: {
-        audio: 'require(../../assets/audio/oppress.mp3)',
+        audio: require('../../assets/audio/oppress.mp3'),
         type: 'Үйл үг',
         engword: 'Oppress',
         mglword: 'Шахах, хавчих',
@@ -1500,7 +1500,7 @@ module.exports = {
     {
       type: 'Society',
       detail: {
-        audio: 'require(../../assets/audio/paradigm.mp3)',
+        audio: require('../../assets/audio/paradigm.mp3'),
         type: 'Нэр үг',
         engword: 'Paradigm',
         mglword: 'Жишээ загвар',
@@ -1510,7 +1510,7 @@ module.exports = {
     {
       type: 'Society',
       detail: {
-        audio: 'require(../../assets/audio/prejudiced.mp3)',
+        audio: require('../../assets/audio/prejudiced.mp3'),
         type: 'Тэмдэг нэр',
         engword: 'Prejudiced',
         mglword: 'Шударга бусаар дүгнэх',
@@ -1520,7 +1520,7 @@ module.exports = {
     {
       type: 'Society',
       detail: {
-        audio: 'require(../../assets/audio/curriculum.mp3)',
+        audio: require('../../assets/audio/curriculum.mp3'),
         type: 'Нэр үг',
         engword: 'Curriculum',
         mglword: 'Хөтөлбөр',
@@ -1530,7 +1530,7 @@ module.exports = {
     {
       type: 'Society',
       detail: {
-        audio: 'require(../../assets/audio/distinctly.mp3)',
+        audio: require('../../assets/audio/distinctly.mp3'),
         type: 'Нөхцөл үйл үг',
         engword: 'Distinctly',
         mglword: 'Ялгаатай',
@@ -1540,7 +1540,7 @@ module.exports = {
     {
       type: 'Society',
       detail: {
-        audio: 'require(../../assets/audio/erudite.mp3)',
+        audio: require('../../assets/audio/erudite.mp3'),
         type: 'Тэмдэг нэр',
         engword: 'Erudite',
         mglword: 'Боловсролтой',
@@ -1550,7 +1550,7 @@ module.exports = {
     {
       type: 'Society',
       detail: {
-        audio: 'require(../../assets/audio/fortify.mp3)',
+        audio: require('../../assets/audio/fortify.mp3'),
         type: 'Үйл үг',
         engword: 'Fortify',
         mglword: 'Бэхжүүлэх',
@@ -1560,7 +1560,7 @@ module.exports = {
     {
       type: 'Society',
       detail: {
-        audio: 'require(../../assets/audio/implicitly.mp3)',
+        audio: require('../../assets/audio/implicitly.mp3'),
         type: 'Нөхцөл үйл үг',
         engword: 'Implicitly',
         mglword: 'Далдуур, мэдэгдэхгүйгээр',
@@ -1570,7 +1570,7 @@ module.exports = {
     {
       type: 'Society',
       detail: {
-        audio: 'require(../../assets/audio/parochial.mp3)',
+        audio: require('../../assets/audio/parochial.mp3'),
         type: 'Тэмдэг нэр',
         engword: 'Parochial',
         mglword: 'Явцуу',
@@ -1580,7 +1580,7 @@ module.exports = {
     {
       type: 'Society',
       detail: {
-        audio: 'require(../../assets/audio/rigor.mp3)',
+        audio: require('../../assets/audio/rigor.mp3'),
         type: 'Нэр үг',
         engword: 'Rigor',
         mglword: 'Хүчтэй',
@@ -1590,7 +1590,7 @@ module.exports = {
     {
       type: 'Society',
       detail: {
-        audio: 'require(../../assets/audio/roster.mp3)',
+        audio: require('../../assets/audio/roster.mp3'),
         type: 'Нэр үг',
         engword: 'Roster',
         mglword: 'Жагсаалт',
@@ -1600,7 +1600,7 @@ module.exports = {
     {
       type: 'Society',
       detail: {
-        audio: 'require(../../assets/audio/secular.mp3)',
+        audio: require('../../assets/audio/secular.mp3'),
         type: 'Тэмдэг нэр',
         engword: 'Secular',
         mglword: 'Шашны бус',
@@ -1610,7 +1610,7 @@ module.exports = {
     {
       type: 'Society',
       detail: {
-        audio: 'require(../../assets/audio/suspend.mp3)',
+        audio: require('../../assets/audio/suspend.mp3'),
         type: 'Үйл үг',
         engword: 'Suspend',
         mglword: 'Түр зогсоох, хойшлуулах',
@@ -1620,7 +1620,7 @@ module.exports = {
     {
       type: 'Society',
       detail: {
-        audio: 'require(../../assets/audio/allegiance.mp3)',
+        audio: require('../../assets/audio/allegiance.mp3'),
         type: 'Нэр үг',
         engword: 'Allegiance',
         mglword: 'Үнэнч байх',
@@ -1630,7 +1630,7 @@ module.exports = {
     {
       type: 'Society',
       detail: {
-        audio: 'require(../../assets/audio/artillery.mp3)',
+        audio: require('../../assets/audio/artillery.mp3'),
         type: 'Нэр үг',
         engword: 'Artillery',
         mglword: 'Их буу',
@@ -1640,7 +1640,7 @@ module.exports = {
     {
       type: 'Society',
       detail: {
-        audio: 'require(../../assets/audio/battle.mp3)',
+        audio: require('../../assets/audio/battle.mp3'),
         type: 'Үйл үг',
         engword: 'Battle',
         mglword: 'Тулаан',
@@ -1650,7 +1650,7 @@ module.exports = {
     {
       type: 'Society',
       detail: {
-        audio: 'require(../../assets/audio/cease.mp3)',
+        audio: require('../../assets/audio/cease.mp3'),
         type: 'Үйл үг',
         engword: 'Cease',
         mglword: 'Зогсоох',
@@ -1660,7 +1660,7 @@ module.exports = {
     {
       type: 'Society',
       detail: {
-        audio: 'require(../../assets/audio/hierarchy.mp3)',
+        audio: require('../../assets/audio/hierarchy.mp3'),
         type: 'Нэр үг',
         engword: 'Hierarchy',
         mglword: 'Шатлан захирах ёс',
@@ -1670,7 +1670,7 @@ module.exports = {
     {
       type: 'Society',
       detail: {
-        audio: 'require(../../assets/audio/inthetrenches.mp3)',
+        audio: require('../../assets/audio/inthetrenches.mp3'),
         type: 'Нэр үг',
         engword: 'In the trenches',
         mglword: 'Байлдааны талбарт',
@@ -1680,7 +1680,7 @@ module.exports = {
     {
       type: 'Society',
       detail: {
-        audio: 'require(../../assets/audio/mobilize.mp3)',
+        audio: require('../../assets/audio/mobilize.mp3'),
         type: 'Үйл үг',
         engword: 'Mobilize',
         mglword: 'Дайчлах',
@@ -1690,7 +1690,7 @@ module.exports = {
     {
       type: 'Society',
       detail: {
-        audio: 'require(../../assets/audio/rank.mp3)',
+        audio: require('../../assets/audio/rank.mp3'),
         type: 'Үйл үг',
         engword: 'Rank',
         mglword: 'Эрэмбэлэх',
@@ -1700,7 +1700,7 @@ module.exports = {
     {
       type: 'Society',
       detail: {
-        audio: 'require(../../assets/audio/ratio.mp3)',
+        audio: require('../../assets/audio/ratio.mp3'),
         type: 'Нэр үг',
         engword: 'Ratio',
         mglword: 'Харьцаа',
@@ -1710,7 +1710,7 @@ module.exports = {
     {
       type: 'Society',
       detail: {
-        audio: 'require(../../assets/audio/strategic.mp3)',
+        audio: require('../../assets/audio/strategic.mp3'),
         type: 'Тэмдэг нэр',
         engword: 'strategic',
         mglword: 'Төлөвлөгөө',
@@ -1720,7 +1720,7 @@ module.exports = {
     {
       type: 'Society',
       detail: {
-        audio: 'require(../../assets/audio/annex.mp3)',
+        audio: require('../../assets/audio/annex.mp3'),
         type: 'Үйл үг',
         engword: 'Annex',
         mglword: 'Хүчээр нэгтгэх',
@@ -1730,7 +1730,7 @@ module.exports = {
     {
       type: 'Society',
       detail: {
-        audio: 'require(../../assets/audio/apex.mp3)',
+        audio: require('../../assets/audio/apex.mp3'),
         type: 'Нэр үг',
         engword: 'Apex',
         mglword: 'Оргил',
@@ -1740,7 +1740,7 @@ module.exports = {
     {
       type: 'Society',
       detail: {
-        audio: 'require(../../assets/audio/collapse.mp3)',
+        audio: require('../../assets/audio/collapse.mp3'),
         type: 'Үйл үг',
         engword: 'Collapse',
         mglword: 'Унах, сүйрэх',
@@ -1750,7 +1750,7 @@ module.exports = {
     {
       type: 'Society',
       detail: {
-        audio: 'require(../../assets/audio/conquest.mp3)',
+        audio: require('../../assets/audio/conquest.mp3'),
         type: 'Нэр үг',
         engword: 'Conquest',
         mglword: 'Эзлэлт',
@@ -1760,7 +1760,7 @@ module.exports = {
     {
       type: 'Society',
       detail: {
-        audio: 'require(../../assets/audio/devise.mp3)',
+        audio: require('../../assets/audio/devise.mp3'),
         type: 'Үйл үг',
         engword: 'Devise',
         mglword: 'Төлөвлөгөө бодож олох',
@@ -1770,7 +1770,7 @@ module.exports = {
     {
       type: 'Society',
       detail: {
-        audio: 'require(../../assets/audio/invasive.mp3)',
+        audio: require('../../assets/audio/invasive.mp3'),
         type: 'Тэмдэг нэр',
         engword: 'Invasive',
         mglword: 'Түрэмгийлэл',
@@ -1780,7 +1780,7 @@ module.exports = {
     {
       type: 'Society',
       detail: {
-        audio: 'require(../../assets/audio/prevailing.mp3)',
+        audio: require('../../assets/audio/prevailing.mp3'),
         type: 'Тэмдэг нэр',
         engword: 'Prevailing',
         mglword: 'Хамгийн хүчтэй',
@@ -1790,7 +1790,7 @@ module.exports = {
     {
       type: 'Society',
       detail: {
-        audio: 'require(../../assets/audio/resist.mp3)',
+        audio: require('../../assets/audio/resist.mp3'),
         type: 'Үйл үг',
         engword: 'Resist',
         mglword: 'Эсэргүүцэх',
@@ -1800,7 +1800,7 @@ module.exports = {
     {
       type: 'Society',
       detail: {
-        audio: 'require(../../assets/audio/severely.mp3)',
+        audio: require('../../assets/audio/severely.mp3'),
         type: 'Нөхцөл үйл үг',
         engword: 'Severely',
         mglword: 'Хатуу ширүүн',
@@ -1810,7 +1810,7 @@ module.exports = {
     {
       type: 'Society',
       detail: {
-        audio: 'require(../../assets/audio/violation.mp3)',
+        audio: require('../../assets/audio/violation.mp3'),
         type: 'Нэр үг',
         engword: 'Violation',
         mglword: 'Хүчирхийлэл',
@@ -1820,7 +1820,7 @@ module.exports = {
     {
       type: 'Society',
       detail: {
-        audio: 'require(../../assets/audio/chronologically.mp3)',
+        audio: require('../../assets/audio/chronologically.mp3'),
         type: 'Нөхцөл үйл үг',
         engword: 'Chronologically',
         mglword: 'Он цагийн дараалал',
@@ -1830,7 +1830,7 @@ module.exports = {
     {
       type: 'Society',
       detail: {
-        audio: 'require(../../assets/audio/coincide.mp3)',
+        audio: require('../../assets/audio/coincide.mp3'),
         type: 'Үйл үг',
         engword: 'Coincide',
         mglword: 'Давхцах',
@@ -1840,7 +1840,7 @@ module.exports = {
     {
       type: 'Society',
       detail: {
-        audio: 'require(../../assets/audio/consequence.mp3)',
+        audio: require('../../assets/audio/consequence.mp3'),
         type: 'Нэр үг',
         engword: 'Consequence',
         mglword: 'Үр дагавар',
@@ -1850,7 +1850,7 @@ module.exports = {
     {
       type: 'Society',
       detail: {
-        audio: 'require(../../assets/audio/core.mp3)',
+        audio: require('../../assets/audio/core.mp3'),
         type: 'Нэр үг',
         engword: 'Core',
         mglword: 'Цөм',
@@ -1860,7 +1860,7 @@ module.exports = {
     {
       type: 'Society',
       detail: {
-        audio: 'require(../../assets/audio/deny.mp3)',
+        audio: require('../../assets/audio/deny.mp3'),
         type: 'Үйл үг',
         engword: 'Deny',
         mglword: 'Үгүйсгэх',
@@ -1870,7 +1870,7 @@ module.exports = {
     {
       type: 'Society',
       detail: {
-        audio: 'require(../../assets/audio/diminish.mp3)',
+        audio: require('../../assets/audio/diminish.mp3'),
         type: 'Үйл үг',
         engword: 'Diminish',
         mglword: 'Багасгах, хорогдох',
@@ -1880,7 +1880,7 @@ module.exports = {
     {
       type: 'Society',
       detail: {
-        audio: 'require(../../assets/audio/longitude.mp3)',
+        audio: require('../../assets/audio/longitude.mp3'),
         type: 'Нэр үг',
         engword: 'Longitude',
         mglword: 'Уртраг',
@@ -1890,7 +1890,7 @@ module.exports = {
     {
       type: 'Society',
       detail: {
-        audio: 'require(../../assets/audio/milieu.mp3)',
+        audio: require('../../assets/audio/milieu.mp3'),
         type: 'Нэр үг',
         engword: 'Milieu',
         mglword: 'Хүрээлэл',
@@ -1900,7 +1900,7 @@ module.exports = {
     {
       type: 'Society',
       detail: {
-        audio: 'require(../../assets/audio/orwellian.mp3)',
+        audio: require('../../assets/audio/orwellian.mp3'),
         type: 'Тэмдэг нэр',
         engword: 'Orwellian',
         mglword: 'Засгийн газраас хяналттай',
@@ -1910,7 +1910,7 @@ module.exports = {
     {
       type: 'Society',
       detail: {
-        audio: 'require(../../assets/audio/reconciliation.mp3)',
+        audio: require('../../assets/audio/reconciliation.mp3'),
         type: 'Нэр үг',
         engword: 'Reconciliation',
         mglword: 'Эвлэрэлт',
@@ -1920,7 +1920,7 @@ module.exports = {
     {
       type: 'Money',
       detail: {
-        audio: "require('../../assets/audio/allocate.mp3')",
+        audio: require('../../assets/audio/allocate.mp3'),
         type: 'Үйл үг',
         engword: 'Allocate',
         mglword: 'Хуваарилах',
@@ -1930,7 +1930,7 @@ module.exports = {
     {
       type: 'Money',
       detail: {
-        audio: "require('../../assets/audio/commodity.mp3')",
+        audio: require('../../assets/audio/commodity.mp3'),
         type: 'Нэр үг',
         engword: 'Commodity',
         mglword: 'Өргөн хэрэглээний бараа',
@@ -1940,7 +1940,7 @@ module.exports = {
     {
       type: 'Money',
       detail: {
-        audio: "require('../../assets/audio/decline.mp3')",
+        audio: require('../../assets/audio/decline.mp3'),
         type: 'Үйл үг',
         engword: 'Decline',
         mglword: 'Буурах',
@@ -1950,7 +1950,7 @@ module.exports = {
     {
       type: 'Money',
       detail: {
-        audio: "require('../../assets/audio/equity.mp3')",
+        audio: require('../../assets/audio/equity.mp3'),
         type: 'Нэр үг',
         engword: 'Equity',
         mglword: 'Хувьцаа, үнэт цаас',
@@ -1960,7 +1960,7 @@ module.exports = {
     {
       type: 'Money',
       detail: {
-        audio: "require('../../assets/audio/inflation.mp3')",
+        audio: require('../../assets/audio/inflation.mp3'),
         type: 'Нэр үг',
         engword: 'Inflation',
         mglword: 'Инфляци',
@@ -1970,7 +1970,7 @@ module.exports = {
     {
       type: 'Money',
       detail: {
-        audio: "require('../../assets/audio/net.mp3')",
+        audio: require('../../assets/audio/net.mp3'),
         type: 'Тэмдэг нэр',
         engword: 'Net',
         mglword: 'Цэвэр',
@@ -1980,7 +1980,7 @@ module.exports = {
     {
       type: 'Money',
       detail: {
-        audio: "require('../../assets/audio/percapita.mp3')",
+        audio: require('../../assets/audio/percapita.mp3'),
         type: 'Нөхцөл үйл үг',
         engword: 'Per capita',
         mglword: '1 хүнд ногдох',
@@ -1990,7 +1990,7 @@ module.exports = {
     {
       type: 'Money',
       detail: {
-        audio: "require('../../assets/audio/regulate.mp3')",
+        audio: require('../../assets/audio/regulate.mp3'),
         type: 'Үйл үг',
         engword: 'Regulate',
         mglword: 'Зохицуулах',
@@ -2000,7 +2000,7 @@ module.exports = {
     {
       type: 'Money',
       detail: {
-        audio: "require('../../assets/audio/subsidy.mp3')",
+        audio: require('../../assets/audio/subsidy.mp3'),
         type: 'Нэр үг',
         engword: 'Subsidy',
         mglword: 'Татаас',
@@ -2010,7 +2010,7 @@ module.exports = {
     {
       type: 'Money',
       detail: {
-        audio: "require('../../assets/audio/tangible.mp3')",
+        audio: require('../../assets/audio/tangible.mp3'),
         type: 'Тэмдэг нэр',
         engword: 'Tangible',
         mglword: 'Анзаарагдахаар',
